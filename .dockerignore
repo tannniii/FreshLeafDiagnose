@@ -1,0 +1,7 @@
+env_name/
+__pycha__
+
+*.env
+*.env.*
+env.*
+
